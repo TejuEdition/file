@@ -1,0 +1,115 @@
+body{
+  background-color: #FFEBD4;
+}
+
+.image-border {
+
+
+margin-bottom: 400px;
+margin-top: 400px;
+margin-left: 500px;
+margin-right: 600px;
+background-color: white;
+border-radius: 10px;
+
+
+
+
+
+
+
+
+
+.omlte{
+img{
+
+  width: 80%;
+  padding-left: 10%;
+  padding-top: 5%;
+  border-radius: 18%;
+}
+}
+
+.Heading{
+h1{
+  padding-top: 5px;
+  padding-left: 12%;
+
+}
+  p {
+    margin-left: 12%;
+    padding-bottom: 20px;
+
+    }
+
+}
+
+.boxone{
+
+h3{
+
+  color: #CB6040;
+}
+  padding-top: 20px;
+  background-color: rgba(239, 207, 227, 0.2);
+  margin-right:90px;
+  margin-left: 90px;
+  padding-left: 10px;
+
+
+}
+
+h2{
+  padding-left: 100px;
+  color: #CB6040;
+}
+
+.ingre{
+padding-left: 100px;
+}
+
+hr{
+
+  margin-left: 50px;
+  margin-right: 80px;
+}
+
+.instructions{
+
+  margin-left: 100px;
+}
+
+hr{
+
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+
+.Nutrition{
+
+margin-left: 100px;
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+
+
+
+}
+
+
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 90%;
+  td{
+    color: #CB6040;
+  }
+}
+
+}
+}
