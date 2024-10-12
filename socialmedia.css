@@ -1,0 +1,78 @@
+
+body{
+
+  background-color: #151515;
+}
+
+.socialmediapage{
+
+  padding-right: 30px;
+  padding-left: 30px;
+  padding-bottom: 50px;
+  padding-top: 2px;
+  border-color: #1E201E;
+  background-color: #1E201E;
+  height: auto;
+  width: 400px;
+  border-radius: 20px;
+  margin-left: 39%;
+  margin-top: 80px;
+
+
+}
+
+img{
+  border-radius: 50%;
+  margin-top: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1{
+  padding-top: 20px;
+  padding-left: 24%;
+  color: #FAF7F0;
+}
+.hand {
+  p{
+  text-align: center;
+  color: #c8e46b;
+  font-family: sans-serif;
+}
+}
+
+div{
+  p{
+    color: #FAF7F0;
+
+  }
+  .normalp{
+    p{
+    margin-left: 80px;
+  }
+  }
+
+
+
+  .btn-group {
+    button{
+
+    margin-left:10%;
+    width: 330px;
+    font-size: 15px;
+    background-color:#363736;
+    color: #FAF7F0;
+    padding: 15px;
+    border-radius: 7px;
+    font-family:"Gill Sans", sans-serif;
+    margin-bottom: 10px;
+    border-color: #3b3d3b;
+    position: relative;
+
+
+
+  }
+
+
+}
